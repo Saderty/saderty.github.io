@@ -14,6 +14,7 @@
 
 <img src="github-metrics.svg"></img>
 <img src="metrics.plugin.lines.history.svg"></img>
+<img src="metrics.plugin.calendar.full.svg"></img>
 
 </body>
 </html>
