@@ -17,6 +17,8 @@
 <img src="metrics.plugin.lines.history.svg"></img>
 <br>
 <img src="metrics.plugin.calendar.full.svg"></img>
+<br>
+<img src="metrics.plugin.leetcode.svg"></img>
 
 </body>
 </html>
