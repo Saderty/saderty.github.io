@@ -15,7 +15,7 @@ jobs:
       - name: Repositories and diff history
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.lines.history.svg
+          filename: metrics.plugin.calendar.full.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_calendar: yes
