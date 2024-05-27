@@ -12,13 +12,13 @@
     <p> Ya krutoy specialist !</p>
 </div>
 
-<img src="github-metrics.svg"></img>
+<img src="github-metrics.svg"/>
 <br>
-<img src="metrics.plugin.lines.history.svg"></img>
+<img src="metrics.plugin.lines.history.svg"/>
 <br>
-<img src="metrics.plugin.calendar.full.svg"></img>
+<img src="metrics.plugin.calendar.full.svg"/>
 <br>
-<img src="metrics.plugin.leetcode.svg"></img>
+<img src="metrics.plugin.leetcode.svg"/>
 
 </body>
 </html>
