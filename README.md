@@ -12,5 +12,7 @@
     <p> Ya krutoy specialist !</p>
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saderty&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 </body>
 </html>
