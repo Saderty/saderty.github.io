@@ -13,6 +13,7 @@
 </div>
 
 <img src="github-metrics.svg"></img>
+<img src="metrics.plugin.lines.history.svg"></img>
 
 </body>
 </html>
