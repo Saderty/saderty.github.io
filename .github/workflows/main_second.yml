@@ -1,5 +1,5 @@
 # Visit https://github.com/lowlighter/metrics#-documentation for full reference
-name: Metrics
+name: Metrics_second
 on:
   # Schedule updates (each hour)
   schedule: [{cron: "0 0 * * *"}]
@@ -25,7 +25,7 @@ jobs:
           #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN_SECOND }}
           # Options
-          user: saderty
+          user: Bulat3301
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Moscow
