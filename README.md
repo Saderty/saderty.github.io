@@ -12,7 +12,8 @@
     <p> Ya krutoy specialist !</p>
 </div>
 
-<img src="github-metrics.svg"/>
+<img src="metrics.classic.svg"/>
+<img src="metrics.classic.second.svg"/>
 <br>
 <img src="metrics.plugin.lines.history.svg"/>
 <br>
