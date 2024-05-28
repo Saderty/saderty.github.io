@@ -12,6 +12,7 @@ jobs:
     permissions:
       contents: write
     steps:
+    
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.classic.second.svg
