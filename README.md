@@ -16,11 +16,11 @@
     <img src="metrics.classic.second.svg"/>
 </div>
 <br>
-<img src="metrics.plugin.lines.history.svg"/>
-<br>
-<img src="metrics.plugin.calendar.full.svg"/>
+<div style="display: inline-flex">
+    <img src="metrics.plugin.calendar.full.svg"/>
+    <img src="metrics.plugin.calendar.full.second.svg"/>
+</div>
 <br>
 <img src="metrics.plugin.leetcode.svg"/>
-
 </body>
 </html>
