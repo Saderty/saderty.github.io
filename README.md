@@ -12,8 +12,10 @@
     <p> Ya krutoy specialist !</p>
 </div>
 
-<img src="metrics.classic.svg"/>
-<img src="metrics.classic.second.svg"/>
+<div style="display: inline-flex">
+    <img src="metrics.classic.svg"/>
+    <img src="metrics.classic.second.svg"/>
+</div>
 <br>
 <img src="metrics.plugin.lines.history.svg"/>
 <br>
