@@ -14,6 +14,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          filename: metrics.classic.svg
           # Your GitHub token
           # The following scopes are required:
           #  - public_access (default scope)
@@ -23,7 +24,6 @@ jobs:
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN_SECOND }}
-
           # Options
           user: saderty
           template: classic
