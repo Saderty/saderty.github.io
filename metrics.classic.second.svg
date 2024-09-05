@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    6.84k added, 2.47k removed
+                                    125k added, 67.1k removed
                                 </div>
                             </section>
                             <section>
@@ -223,13 +223,13 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">Bulat3301/EmissionControl</span>
+                            <span class="diff-handle">Bulat3301/EasyConnector</span>
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">Bulat3301/GKS-Control</span>
+                            <span class="diff-handle">Bulat3301/EmissionControl</span>
                         </div>
                     </section>
                     <section>
@@ -240,8 +240,8 @@
                             <div class="diff-box deleted"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
-                                <span class="added"> +6.50k</span>
-                                <span class="deleted"> -2.28k</span>
+                                <span class="added">  +118k</span>
+                                <span class="deleted"> -64.8k</span>
                             </div>
                             <span> </span>
                         </div>
@@ -252,8 +252,8 @@
                             <div class="diff-box deleted"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
-                                <span class="added">   +347</span>
-                                <span class="deleted">   -192</span>
+                                <span class="added"> +6.58k</span>
+                                <span class="deleted"> -2.32k</span>
                             </div>
                             <span> </span>
                         </div>
@@ -287,29 +287,29 @@
                         </g>
                         <g transform="translate(39,0)" fill="none" font-size="10" font-family="sans-serif" text-anchor="end">
                             <path class="domain" stroke="currentColor" d="M-6,5.5H0.5V276.5H-6"/>
-                            <g class="tick" opacity="1" transform="translate(0,34.138801261829656)">
+                            <g class="tick" opacity="1" transform="translate(0,35.29546562652366)">
                                 <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">1.0k</text>
+                                <text fill="currentColor" x="-9" dy="0.32em">40k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,87.56940063091483)">
+                            <g class="tick" opacity="1" transform="translate(0,88.14773281326183)">
                                 <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">500</text>
+                                <text fill="currentColor" x="-9" dy="0.32em">20k</text>
                             </g>
                             <g class="tick" opacity="1" transform="translate(0,141)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">0.0</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,194.43059936908517)">
+                            <g class="tick" opacity="1" transform="translate(0,193.85226718673817)">
                                 <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">−500</text>
+                                <text fill="currentColor" x="-9" dy="0.32em">−20k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,247.86119873817034)">
+                            <g class="tick" opacity="1" transform="translate(0,246.70453437347635)">
                                 <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">−1.0k</text>
+                                <text fill="currentColor" x="-9" dy="0.32em">−40k</text>
                             </g>
                         </g>
-                        <path d="M39,140.5L77.286,140.5L96.429,140.5L153.857,140.5L192.143,140.5L211.286,140.5L230.429,140.5L249.571,140.5L268.714,140.5L287.857,140.5L307,140.5L326.143,140.5L345.286,140.5L364.429,140.5L383.571,140.5L402.714,140.5L421.857,140.5L441,140.5L441,139.325L421.857,97.862L402.714,92.947L383.571,132.699L364.429,131.737L345.286,122.868L326.143,63.56L307,64.415L287.857,100.748L268.714,60.14L249.571,22.098L230.429,129.066L211.286,138.79L192.143,99.145L153.857,125.646L96.429,140.179L77.286,5L39,131.524Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L77.286,140.5L96.429,140.5L153.857,140.5L192.143,140.5L211.286,140.5L230.429,140.5L249.571,140.5L268.714,140.5L287.857,140.5L307,140.5L326.143,140.5L345.286,140.5L364.429,140.5L383.571,140.5L402.714,140.5L421.857,140.5L441,140.5L441,140.927L421.857,146.271L402.714,140.821L383.571,142.424L364.429,148.942L345.286,147.125L326.143,149.156L307,193.076L287.857,181.428L268.714,182.283L249.571,158.132L230.429,145.202L211.286,142.21L192.143,178.863L153.857,141.889L96.429,140.821L77.286,164.009L39,149.583Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L77.286,140.5L96.429,140.5L115.571,140.5L134.714,140.5L153.857,140.5L192.143,140.5L211.286,140.5L230.429,140.5L249.571,140.5L268.714,140.5L287.857,140.5L307,140.5L326.143,140.5L345.286,140.5L364.429,140.5L383.571,140.5L402.714,140.5L421.857,140.5L441,140.5L441,140.249L421.857,139.446L402.714,37.486L383.571,140.307L364.429,113.347L345.286,140.064L326.143,138.597L307,125.4L287.857,137.191L268.714,59.16L249.571,137.53L230.429,140.217L211.286,140.294L192.143,135.474L153.857,111.212L134.714,137.535L115.571,135.619L96.429,124.993L77.286,104.463L39,140.278Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L77.286,140.5L96.429,140.5L115.571,140.5L134.714,140.5L153.857,140.5L192.143,140.5L211.286,140.5L230.429,140.5L249.571,140.5L268.714,140.5L287.857,140.5L307,140.5L326.143,140.5L345.286,140.5L364.429,140.5L383.571,140.5L402.714,140.5L421.857,140.5L441,140.5L441,140.606L421.857,140.643L402.714,149.096L383.571,140.548L364.429,141.52L345.286,140.664L326.143,140.714L307,142.051L287.857,276L268.714,141.895L249.571,140.978L230.429,140.616L211.286,140.688L192.143,150.798L153.857,141.75L134.714,141.647L115.571,153.433L96.429,142.519L77.286,140.603L39,140.725Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
@@ -328,14 +328,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="285.9547455098327" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="285.9547455098327" y="0" width="96.26141843176767" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="382.2161639416004" y="0" width="51.855836130849525" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="434.07200007244995" y="0" width="10.083503717944403" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="444.15550379039433" y="0" width="9.465362809973211" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="453.6208666003675" y="0" width="5.956588396324525" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="459.57745499669204" y="0" width="0.31881659478947966" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="459.89627159148154" y="0" width="0.10372840851842248" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="285.933243767612" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="285.933243767612" y="0" width="96.25418026475899" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="382.187424032371" y="0" width="51.85193694456696" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="434.0393609769379" y="0" width="10.087729629968901" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="444.12709060690685" y="0" width="9.494255658457034" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="453.62134626536385" y="0" width="5.956140503676391" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="459.57748676904026" y="0" width="0.31879262207231196" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="459.89627939111256" y="0" width="0.1037206088874111" height="8" fill="#878787"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -390,7 +390,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Sept 2024, 04:09:17 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Sept 2024, 04:09:12 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
